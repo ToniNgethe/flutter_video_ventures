@@ -14,7 +14,7 @@ class SplashScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     SizeConfig().init(context);
-   // _moveToNext(context);
+    _moveToNext(context);
     return Scaffold(
         appBar: AppBar(
           leading: SizedBox(),

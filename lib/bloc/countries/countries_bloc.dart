@@ -1,5 +1,5 @@
-import 'package:video_ventures_flluter/bloc/countries_event.dart';
-import 'package:video_ventures_flluter/bloc/countries_state.dart';
+import 'package:video_ventures_flluter/bloc/countries/countries_event.dart';
+import 'package:video_ventures_flluter/bloc/countries/countries_state.dart';
 import 'package:bloc/bloc.dart';
 import 'package:video_ventures_flluter/model/countries_model.dart';
 import 'package:video_ventures_flluter/persistence/repository.dart';

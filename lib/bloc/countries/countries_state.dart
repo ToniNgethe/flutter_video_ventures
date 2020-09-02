@@ -6,7 +6,6 @@ abstract class CountriesState extends Equatable {}
 
 class CountriesInitialState extends CountriesState {
   @override
-  // TODO: implement props
   List<Object> get props => [];
 }
 
