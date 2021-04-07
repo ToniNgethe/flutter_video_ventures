@@ -7,7 +7,6 @@ class ApiProvider {
   Map<String, String> get headers => {
         "Content-Type": "application/json",
         "Accept": "application/json",
-        "Authorization": "f7d76129-27c4-487d-9177-430b241af9ff",
       };
   final _baseUrl = "http://159.89.233.116:3000/api/v1/countries";
 
